@@ -11,18 +11,8 @@
 
 Ten projekt stanowi zapis analizy, modelowania oraz implementacji w ramach [Domain Explorers](https://explorers.bettersoftwaredesign.pl). Znajdziesz tutaj zarówno artefakty wynikowe poszczególnych sesji EventStormingu, modelowania, jak i (docelowo) powstałą na tej bazie implementację.
 
-## Analiza domeny
+## Analiza domeny : Paweł Kowalik i Stanisław Zajdel
 
-### Big Picture EventStorming
+Link do Miro: [Event Storming session](https://miro.com/app/board/o9J_lU57efw=/) 
 
-#### Wersja początkowa
-
-Punktem wyjścia do rozpoznania domeny jest board dostępny w ramach Domain Explorers. Opisuje on wysokopoziomy przebieg procesów załadunku oraz rozładunku skrzynkomatu, a także proces odbioru przesyłki przez odbiorcę.
-
-![Big Picture EventStorming - początek](assets/images/big-picture-init-small.jpg)
-
-Aby pobrać pełną wersję boarda, kliknij [tutaj](assets/images/big-picture-init.jpg). 
-
-#### Wersja finalna
-
-TBD
+![EventStorming](assets/images/EventStorming_PK_SZ.jpg)
